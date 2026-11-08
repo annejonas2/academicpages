@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/IMG-20260414-WA0040-1.jpg"
   name             : "Anne Jonas"
   pronouns         : "she/her"  
   bio              : "Assistant Professor studying people, technology, power, & organizations "
